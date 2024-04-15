@@ -1,6 +1,6 @@
 # Title of the project
 
-Documentation is **the most important** part of any scientific project. Please read the instruction shere carefully and follow them. This will ensure:
+Documentation is **the most important** part of any scientific project. Please read the instructions here carefully and follow them. This will ensure:
 1. You make good progress on your project in an organized manner
 2. When you look back at your work one year from now, you will be able to still make sense of it and use it (it is surprisingly easy and common to become completely blank about old code, old decisions or old work in a long project!)
 3. When you leave and someone else takes up your project, they are able to actually use the progress you made and move the project forward. This will benefit you as well when the project leads to a manuscript!
