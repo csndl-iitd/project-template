@@ -5,7 +5,18 @@ Documentation is **the most important** part of any scientific project. Please r
 2. When you look back at your work one year from now, you will be able to still make sense of it and use it (it is surprisingly easy and common to become completely blank about old code, old decisions or old work in a long project!)
 3. When you leave and someone else takes up your project, they are able to actually use the progress you made and move the project forward. This will benefit you as well when the project leads to a manuscript!
 
-How to use this repository for project management (you can read [this](https://rabernat.medium.com/scientific-collaboration-and-project-management-in-github-d74f2255ae5f) as well):
+## How to use this repository for project management
+You can read [this](https://rabernat.medium.com/scientific-collaboration-and-project-management-in-github-d74f2255ae5f) as well.
+
+## 0. Basic instructions
+1. Create a repository for your project using this repository as a template (see the `Use this remplate` button on the top right? Create a new repository from there!).
+2. **Select `include all branches`** on the next page.
+3. The owner should be `csndl-iitd`.
+4. Give the repository a name (and description, if you want) based on your project.
+5. Keep it public and hit `Create repository`.
+6. Install `Github desktop` on your computer (not necessary but it will make your life easier).
+7. Clone the newly created repository to your computer using Github desktop.
+8. Now read the rest of this page to understand how to use your repository.
 
 ## 1. Project related discussion and weekly updates
 All project related discussion will happen through `issues` on `Github.com`. Create the first issue named `Main discussion thread` if it is not already present and add the overall goal of the project there.  
