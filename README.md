@@ -28,7 +28,9 @@ For each weekly meeting you should create a `milestone` on Github.com. All the a
 ## 2. References
 All project related reading you do should be added as PDFs to the references folder. The files should be named following the convention `author et al_year_title.pdf`. Refer to this file in your issues when you refer to the paper. Typically you will also have an issue related to reading the paper where you can summarize whatever was relevant in the paper to our project.  
 
-**Remember to switch to the main branch before adding references to this folder.** Otherwise it will become difficult to track references scattered across branches. This matters only if you every create other branches for your analysis code.
+**Remember to switch to the main branch before adding references to this folder.** Otherwise it will become difficult to track references scattered across branches. This matters only if you every create other branches for your analysis code.  
+
+I recommend using `Zotero` for managing your references. It is easy to use, light-weight, free of charge and free of crap. And has all the goodies to integrate it with your choice word processors.
 
 ## 3. Experiments
 If you are designing an experiment, all experiment files should go in the `experiment` folder. Please follow the following steps:
